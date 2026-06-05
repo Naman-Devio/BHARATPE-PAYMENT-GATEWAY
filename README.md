@@ -171,7 +171,7 @@ Start Apache / Nginx Server
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naman_devio&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naman-devio&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
