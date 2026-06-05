@@ -92,7 +92,7 @@ AUTO PAYMENT SUCCESS
 
 ```bash id="on3q71"
 git clone https://github.com/Naman-Devio/BHARATPE-PAYMENT-GATEWAY.git
-cd project-folder
+cd BHARATPE-PAYMENT-GATEWAY
 ```
 
 ---
@@ -171,7 +171,7 @@ Start Apache / Nginx Server
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naman_devio&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
