@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=⚡+BHARATPE+PAYMENT+GATEWAY+⚡;🚀+AUTO+PAYMENT+VERIFICATION+🚀;💳+FAST+%7C+SECURE+%7C+MODERN+💳;🔥+PHP+PAYMENT+INTEGRATION+🔥" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=BHARATPE+PAYMENT+GATEWAY;AUTO+PAYMENT+VERIFICATION;FAST+SECURE+MODERN;PHP+PAYMENT+INTEGRATION" />
 
 <br>
 
@@ -184,7 +184,7 @@ Start Apache / Nginx Server
 ## ⚡ 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐃 𝐁𝐘 𝐍𝐀𝐌𝐀𝐍 ⚡
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=THANKS+FOR+VISITING+💙;USE+RESPONSIBLY+⚠️;EDUCATIONAL+PURPOSE+ONLY+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=THANKS+FOR+VISITING+%F0%9F%92%99;USE+RESPONSIBLY+%E2%9A%A0%EF%B8%8F;EDUCATIONAL+PURPOSE+ONLY+%F0%9F%9A%80" />
 
 </div>
 
